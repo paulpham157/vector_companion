@@ -26,10 +26,10 @@ rich==14.0.0
 safetensors==0.5.3
 scikit_learn==1.6.1
 scipy==1.15.2
-setuptools==75.1.0
+setuptools==78.1.1
 sounddevice==0.5.1
 soundfile==0.13.1
-transformers==4.47.1
+transformers==4.50.0
 coqui-tts==0.26.0
 wandb==0.19.9
 wheel==0.45.1
